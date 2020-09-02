@@ -6,7 +6,7 @@ namespace LeetCodeExc
     {
         static void Main(string[] args)
         {
-            var module = new LargestTime();
+            var module = new ContainsDuplicate3();
             module.Run();
         }
     }
